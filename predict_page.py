@@ -183,4 +183,3 @@ def show_predict_page():
 # Education level scale 1-6 1 = Never attended school or only kindergarten 2 = Grades 1 through
 # 8 (Elementary) 3 = Grades 9 through 11 (Some high school) 4 = Grade 12 or GED (High school graduate) 5 = College 1
 # year to 3 years (Some college or technical school) 6 = College 4 years or more (College graduate)
-
