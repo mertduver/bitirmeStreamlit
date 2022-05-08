@@ -2,3 +2,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
+
+pandas~=1.4.2
+numpy~=1.22.3
+streamlit~=1.8.1
