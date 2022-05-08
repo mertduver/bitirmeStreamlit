@@ -50,7 +50,7 @@ import streamlit as st
 with open("model.pkl", "rb") as f:
     pickled_model = pickle.load(f)
 
-# st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")
 
 
 # Remove whitespace from the top of the page and sidebar
