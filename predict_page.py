@@ -47,8 +47,13 @@ import streamlit as st
 
 # load the model
 # load the model
-with open("model.pkl", "rb") as f:
-    pickled_model = pickle.load(f)
+# with open("model.pkl", "rb") as f:
+#     pickled_model = pickle.load(f)
+
+f = open("model.pkl", "rb")
+pickled_model = pickle.load(f)
+f.close()
+
 
 st.set_page_config(layout="wide")
 
