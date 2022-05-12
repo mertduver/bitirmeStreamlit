@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d06a111c-de4d-4e78-b789-9f26d06e6898" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,10 @@
       <workItem from="1651005799802" duration="605000" />
       <workItem from="1651008142768" duration="137000" />
       <workItem from="1652011654612" duration="6820000" />
-      <workItem from="1652026444510" duration="1483000" />
+      <workItem from="1652026444510" duration="2214000" />
+      <workItem from="1652294048963" duration="1630000" />
+      <workItem from="1652342237759" duration="852000" />
+      <workItem from="1652379051604" duration="2476000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1652025224711</created>
@@ -142,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652026529813</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="a">
+      <created>1652028051711</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652028051711</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
