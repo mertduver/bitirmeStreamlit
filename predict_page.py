@@ -82,7 +82,7 @@ def show_predict_page():
     st.header("""We need some information to predict the diabetes""")
     st.markdown("***")
     col1, col2, col3 = st.columns(3)
-    col1.subheader("Information of Person")
+    col1.subheader("Information of the Person")
     bmi = int(col1.text_input('Body Mass Index (BMI)', '21'))
     col2.subheader("-")
     age = int(col2.text_input('Age', '35'))
@@ -113,7 +113,7 @@ def show_predict_page():
             col1.write("**Probably does not have Diabetes**")
         st.write("This estimations are %72 accurate and based on some other humans data.\n\n "
                  "This estimation does not specifies the truth. We recommend everyone to go to a hospital and "
-                 "make a full check-up.")
+                 "make a full check-up at regular intervals.")
 
     col3.write("Income Levels:\n")
     col3.write("1: Less than $10,000\n")
