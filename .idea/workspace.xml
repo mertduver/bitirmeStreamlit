@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d06a111c-de4d-4e78-b789-9f26d06e6898" name="Changes" comment="">
+    <list default="true" id="d06a111c-de4d-4e78-b789-9f26d06e6898" name="Changes" comment="a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,32 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28ItbnjSYmTrcMbji7QI7vtDXvw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mert/PycharmProjects/bitirmeStreamlit&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mert\PycharmProjects\bitirmeStreamlit" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mert\PycharmProjects\bitirmeStreamlit\images" />
+      <recent name="C:\Users\Mert\PycharmProjects\bitirmeStreamlit\pages" />
+      <recent name="C:\Users\Mert\PycharmProjects\bitirmeStreamlit" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.predict_page">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="bitirmeStreamlit" />
@@ -71,7 +85,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict_page.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Mert\PycharmProjects\bitirmeStreamlit\pages\predict_page.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +117,12 @@
       <workItem from="1652379051604" duration="2476000" />
       <workItem from="1652396516070" duration="820000" />
       <workItem from="1652397987962" duration="721000" />
-      <workItem from="1654108064832" duration="1917000" />
+      <workItem from="1654108064832" duration="7881000" />
+      <workItem from="1654193390835" duration="3723000" />
+      <workItem from="1655053729411" duration="1337000" />
+      <workItem from="1655114927898" duration="1711000" />
+      <workItem from="1655120530018" duration="1968000" />
+      <workItem from="1655331668354" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1652025224711</created>
@@ -196,13 +215,46 @@
       <option name="project" value="LOCAL" />
       <updated>1654108734491</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="a">
+      <created>1654110164177</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654110164177</updated>
+    </task>
+    <task id="LOCAL-00015" summary="a">
+      <created>1654110292661</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654110292661</updated>
+    </task>
+    <task id="LOCAL-00016" summary="a">
+      <created>1655115445439</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1655115445439</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="a" />
     <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
