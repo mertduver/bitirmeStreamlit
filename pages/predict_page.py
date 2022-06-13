@@ -2,6 +2,7 @@ import pickle
 import pandas as pd
 import numpy as np
 import streamlit as st
+import sklearn
 
 # data = pd.read_csv("./diabetes_binary_5050split_health_indicators_BRFSS2015.csv")
 
@@ -47,12 +48,12 @@ import streamlit as st
 
 # load the model
 # load the model
-# with open("model.pkl", "rb") as f:
-#     pickled_model = pickle.load(f)
+with open("./model.pkl", "rb") as f:
+    pickled_model = pickle.load(f)
 
-f = open("model.pkl", "rb")
-pickled_model = pickle.load(f)
-f.close()
+# f = open("../model.pkl", "rb")
+# pickled_model = pickle.load(f)
+# f.close()
 
 
 st.set_page_config(layout="wide")
